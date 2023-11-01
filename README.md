@@ -19,6 +19,3 @@ Model building of House Prices using advanced regression techniques
 - seaborn - version 0.12.2
 - scikit-learn - version 1.3.0
 - matplotlib - version 3.7.2
-
-## Contact
-Created by [https://github.com/sgk259] - feel free to contact me!
